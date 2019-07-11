@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "NodeJS client for connecting to spamd/spamc server",
   "license": "MIT",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arrterian/spamd-client.git"
+  },
   "keywords": [
     "spamc",
     "spamd",
