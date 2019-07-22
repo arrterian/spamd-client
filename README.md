@@ -1,4 +1,8 @@
+[![Build Status](https://travis-ci.org/arrterian/spamd-client.svg?branch=master)](https://travis-ci.org/arrterian/spamd-client.svg?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/arrterian/spamd-client/badge.svg?branch=master)](https://coveralls.io/github/arrterian/spamd-client?branch=master)
+
 # SpamD Network Client
+
 This library is NodeJS driver for Spamassassin spamd protocol built over TCP.
 Allow check emails via Spamassassin from NodeJS.
 
@@ -13,7 +17,7 @@ Allow check emails via Spamassassin from NodeJS.
 * [ ] PING
 
 ## API Documentation
-Api built for convenient usage in point-free style. Using native Promises.
+Api built for convenient usage in point-free style using native Promises.
 
 ## TOC
  [Connection](#connection)
